@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/system/index.js"],"names":["System"],"mappings":"0HAUeA,UARA,WACd,OACC","file":"static/js/17.b85ff0a6.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst System = () => {\r\n\treturn (\r\n\t\t<div>\r\n\t\t\tSystem component works!\r\n\t\t</div>\r\n\t)\r\n}\r\n\r\nexport default System\r\n"],"sourceRoot":""}

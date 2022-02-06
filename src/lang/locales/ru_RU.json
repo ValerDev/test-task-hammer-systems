@@ -1,0 +1,34 @@
+{
+	"main": "Основные",
+	
+	"main.dashboard": "Дашборд",
+
+	"main.catalog": "Каталог",
+	"main.catalog.products": "Товары",
+	"main.catalog.categories": "Категории",
+	"main.catalog.collections": "Коллекции",
+	"main.catalog.combo": "Комбо",
+
+	"main.offers": "Заказы",
+
+	"main.clients": "Клиенты",
+	"main.clients.list": "Список клиентов",
+	"main.clients.group": "Группы клиентов",
+
+	"main.banners": "Банеры",
+
+	"main.promocodes": "Промокоды",
+
+	"main.offlinepoints": "Оффлайн точки",
+	"main.offlinepoints.addresses": "Адреса",
+	"main.offlinepoints.geofences": "Геозоны",
+
+	"main.collaborators": "Сотрудники",
+
+	"main.newsletters": "Рассылки",
+
+	"system": "Системные",
+	"system.settings": "Настройки",
+	"system.mobileapps": "Мобильное приложение",
+	"system.logs": "Логи"
+}

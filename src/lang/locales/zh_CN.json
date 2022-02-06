@@ -1,0 +1,34 @@
+{
+  "main": "主要的",
+
+  "main.dashboard": "儀表板",
+
+  "main.catalog": "目錄",
+  "main.catalog.products": "產品",
+  "main.catalog.categories": "類別",
+  "main.catalog.collections": "收藏品",
+  "main.catalog.combo": "組合",
+
+  "main.offers": "優惠",
+
+  "main.clients": "客戶",
+  "main.clients.list": "客戶名單",
+  "main.clients.group": "客戶群",
+
+  "main.banners": "橫幅",
+
+  "main.promocodes": "促銷代碼",
+
+  "main.offlinepoints": "離線積分",
+  "main.offlinepoints.addresses": "地址",
+  "main.offlinepoints.geofences": "地理圍欄",
+
+  "main.collaborators": "合作者",
+
+  "main.newsletters": "時事通訊",
+
+  "system": "系統",
+  "system.settings": "設置",
+  "system.mobileapps": "移動應用",
+  "system.logs": "日誌"
+}
